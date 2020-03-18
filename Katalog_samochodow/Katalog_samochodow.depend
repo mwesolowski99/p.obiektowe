@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584473768 source:c:\users\nowak\desktop\dla weso³a\katalog_samochodow\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+	<string>
+
